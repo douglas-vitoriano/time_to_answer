@@ -1,0 +1,28 @@
+"pt-BR":
+  activerecord:
+    models:
+      admin: 
+        one: "Administrador"
+        other: "Administradores"
+      profile:
+        one: "Perfil"
+        other: "Perfis"
+    attributes:
+      admin:
+        name: "Nome"
+        email: "E-mail"
+        password: "Senha"
+        password_confirmation: "Confirmação de Senha"
+        current_password: "Senha Atual"
+        avatar: "Avatar"
+        role: "Perfil"
+        status: "Status"
+        created_at: "Criado em"
+        updated_at: "Atualizado em"
+      profile:
+        name: "Nome"
+        description: "Descrição"
+        status: "Status"
+        created_at: "Criado em"
+        updated_at: "Atualizado em"
+
